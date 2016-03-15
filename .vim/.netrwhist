@@ -1,9 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/Users/kishore.chintoju/dev/servers/jboss-eap-6.2/standalone/deployments'
-let g:netrw_dirhist_2='/Users/kishore.chintoju/dev/work/playground/github/kanchanac.github.io/_includes'
-let g:netrw_dirhist_3='/Users/kishore.chintoju/dev/work/playground/github/kanchanac.github.io/_posts'
-let g:netrw_dirhist_4='/Users/kishore.chintoju'
-let g:netrw_dirhist_5='/Users/kishore.chintoju/Documents'
-let g:netrw_dirhist_6='/Users/kishore.chintoju/Documents/HiringManager'
-let g:netrw_dirhist_7='/Applications/IntelliJ IDEA 14.app/Contents/bin'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/kishore.chintoju/dev/servers/jboss-eap-6.4'
+let g:netrw_dirhist_2='/Users/kishore.chintoju/dev/servers/jboss-eap-6.4/standalone'
+let g:netrw_dirhist_3='/Users/kishore.chintoju/dev/servers/jboss-eap-6.4'
+let g:netrw_dirhist_4='/Users/kishore.chintoju/dev/servers/jboss-eap-6.4/bin'

@@ -14,5 +14,6 @@ set hlsearch            " highlight matches
 set clipboard=unnamed   " yank to clipboard
 set backspace=indent,eol,start "get backspace to work normally
 set pastetoggle=<F10>   " toggle paste mode
-inoremap jk <ESC>
-let mapleader = ","
+vnoremap    <D-c> "*yy
+inoremap jj <ESC>
+"let mapleader = ","
